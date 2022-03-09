@@ -1,4 +1,4 @@
-### GERALD JUWAH
+<p align="center"> Hi I'm <strong> GERALD JUWAH</strong> 🐱‍👤🐱‍💻🐱‍🚀 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gejix&show_icons=true&theme=radical"/>
 
