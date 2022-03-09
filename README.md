@@ -1,6 +1,6 @@
 <p align="center"> Hi I'm <strong> GERALD JUWAH</strong> 🐱‍👤🐱‍💻🐱‍🚀 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gejix&show_icons=true&theme=radical"/>
+<img align="left" width= "45%" src="https://github-readme-stats.vercel.app/api?username=gejix&show_icons=true&theme=radical"/>
 
 <!-- <img align="left" width="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gejix&layout=compact)](https://github.com/gejix/github-readme-stats"/> -->
 
