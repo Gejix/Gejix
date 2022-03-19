@@ -19,7 +19,7 @@ ___
 ### ABOUT ME:
 ___
 - 🔭 I’m a Software Engineering
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C language.
 - 🐱‍🚀 I have a MERN stack
 - 👯 I’m looking to collaborate on any related projects 
 - 🤔 I’m looking for help with software Engineering best practices
