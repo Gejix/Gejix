@@ -21,7 +21,7 @@ ___
 - 🔭 I’m a Software Engineering
 - 🌱 I’m currently learning C language
 - 🐱‍🚀 I have a MERN stack
-- 👯 I’m looking to collaborate on any related projects 
+- 👯 I’m looking to collaborate on projects 
 - 🤔 I’m looking for help with software Engineering best practices
 - 💬 Ask me about web development
 - 📫 How to reach me:  <em>geraldjuwah@gmail.com</em>
