@@ -24,7 +24,7 @@ ___
 - 👯 I’m looking to collaborate on projects. 
 - 🤔 I’m looking for help with software Engineering best practices.
 - 💬 Ask me about web development.
-- 📫 How to reach me:  <em>geraldjuwah@gmail.com</em>
+- 📫 How to reach me:  <em>geraldjuwah@gmail.com</em> .
 - ⚡ Fun facts: I💖Art...
 
 ## SOCIAL INFO:
