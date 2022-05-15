@@ -25,7 +25,7 @@ ___
 - 🤔 I’m looking for help with software Engineering best practices.
 - 💬 Ask me about web development.
 - 📫 How to reach me:  <em>geraldjuwah@gmail.com</em>
-- ⚡ Fun facts: I💖Art....
+- ⚡ Fun facts: I💖Art...
 
 ## SOCIAL INFO:
 [<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gejix) [<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/gejix) [<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/Gejix)  [<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gejix.github.io/GeraldJuwah-Portfolio/) [<img align="right" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@GeraldJuwah)
