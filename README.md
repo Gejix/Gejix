@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'm <strong> GERALD JUWAH</strong> 🐱‍💻<img height="40px" src="https://slackmojis.com/emojis/34984-mando/download"/>🐱‍👤</h1>
 
-<img align="left" width= "45%" src="https://github-readme-stats.vercel.app/api?username=gejix&show_icons=true&theme=radical"/>
+<img align="left" width= "45%" src="https://github-readme-stats.vercel.app/api?username=gejix&show_icons=true&theme=dracula"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gejix&layout=compact)](https://github.com/gejix/github-readme-stats)
 
