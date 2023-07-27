@@ -18,7 +18,7 @@ ___
 ### ABOUT ME:
 ___
 - 🔭 I’m a Data Scientist 
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C# language
 - 🐱‍🚀 I have a MERN stack
 - 🤔 I’m looking for help with software Engineering best practices
 - 💬 Ask me about web development
